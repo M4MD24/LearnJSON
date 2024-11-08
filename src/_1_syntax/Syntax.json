@@ -1,0 +1,14 @@
+{
+  "Object": {
+    "Text": "This is Text",
+    "Number": 123,
+    "Boolean": true,
+    "Null": null,
+    "Array": [
+      null,
+      1,
+      "Two",
+      false
+    ]
+  }
+}
